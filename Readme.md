@@ -11,3 +11,9 @@ ascending order and are five in number. These results are then populated on the 
 Can be configured to display results with connections, without connections, and with the exact time flag along with specifying the train types (Express or Regular).
 
 ![searchresult](https://user-images.githubusercontent.com/22604867/36648989-6b81dcfc-1a4e-11e8-8963-2f22f6e6089f.jpg)
+
+### View Bookings
+![booking](https://user-images.githubusercontent.com/22604867/36649150-af045e04-1a4f-11e8-9bbf-f8bc407e52e7.jpg)
+
+### Train Cancellation
+![cancel](https://user-images.githubusercontent.com/22604867/36649420-cb52adca-1a51-11e8-94be-f0f57330a836.jpg)
