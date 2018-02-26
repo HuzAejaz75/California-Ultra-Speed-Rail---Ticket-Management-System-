@@ -1,3 +1,15 @@
+Build & Run Instructions - 
+
+Frondend:
+1.npm install -g create-react-app
+2.cd trainbooking
+3.npm install
+4.npm start
+
+Backend: 
+1.cd Backend/
+2.mvn clean install
+3.java -jar target/CaliforniaRailTransportSystem-0.0.1-SNAPSHOT.jar
 Screenshots:
 ### Login using Google or Facebook OAuth
 ![login](https://user-images.githubusercontent.com/22604867/36648886-94db91b6-1a4d-11e8-80bc-630ebb7c3b8a.jpg)
